@@ -2,7 +2,7 @@
   "users": [
     {
       "id": 1,
-      "usuario": "John Doe",
+      "user": "John Doe",
       "email": "john.due@gmail.com"
     }
   ],
@@ -13,8 +13,15 @@
       "publisher": "DC Comics",
       "alter_ego": "Bruce Wayne",
       "first_appearance": "Detective Comics #27",
-      "characters": "Bruce Wayne",
-      "alt_img": null
+      "characters": "Bruce Wayne"
+    },
+    {
+      "id": "dc-superman",
+      "superhero": "Superman",
+      "publisher": "DC Comics",
+      "alter_ego": "Kal-El",
+      "first_appearance": "Action Comics #1",
+      "characters": "Kal-El"
     },
     {
       "id": "dc-flash",
@@ -39,6 +46,14 @@
       "alter_ego": "Oliver Queen",
       "first_appearance": "More Fun Comics #73",
       "characters": "Oliver Queen"
+    },
+    {
+      "id": "dc-wonder",
+      "superhero": "Wonder Woman",
+      "publisher": "DC Comics",
+      "alter_ego": "Princess Diana",
+      "first_appearance": "All Star Comics #8",
+      "characters": "Princess Diana"
     },
     {
       "id": "dc-martian",
@@ -71,6 +86,14 @@
       "alter_ego": "Dinah Drake",
       "first_appearance": "Flash Comics #86",
       "characters": "Dinah Drake, Dinah Lance"
+    },
+    {
+      "id": "marvel-spider",
+      "superhero": "Spider Man",
+      "publisher": "Marvel Comics",
+      "alter_ego": "Peter Parker",
+      "first_appearance": "Amazing Fantasy #15",
+      "characters": "Peter Parker"
     },
     {
       "id": "marvel-captain",
@@ -143,15 +166,6 @@
       "alter_ego": "Norrin Radd",
       "first_appearance": "The Fantastic Four #48",
       "characters": "Norrin Radd"
-    },
-    {
-      "id": "Hod1f15",
-      "superhero": "SuperGoku",
-      "publisher": "Marvel Comics",
-      "alter_ego": "Ultra instinto",
-      "first_appearance": "Comic 2023 Angular",
-      "characters": "Eduardo ",
-      "alt_img": "https://i.redd.it/8r6o0uyqza541.jpg"
     }
   ]
 }
